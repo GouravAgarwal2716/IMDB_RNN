@@ -1,5 +1,7 @@
 # IMDB Sentiment Analysis Streamlit App
 
+[Live Demo](https://imdbrnn-gourav.streamlit.app)
+
 This repository contains a Streamlit app for IMDB sentiment analysis using a simple RNN model.
 
 ## Files
